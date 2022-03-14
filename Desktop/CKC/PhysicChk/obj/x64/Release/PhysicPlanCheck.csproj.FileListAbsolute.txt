@@ -1,0 +1,25 @@
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.dll
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.dll.config
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.csproj.CoreCompileInputs.cache
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.csproj.CopyComplete
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.dll
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.pdb
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.pdb
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi_MarkupCompile.cache
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi_MarkupCompile.lref
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.g.resources
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\UserControl1.g.cs
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Release\UserControl1.baml
+C:\Users\aria\Desktop\CKC\plugins\PhysicPlanCheck.esapi.dll.config
+C:\Users\aria\Desktop\CKC\plugins\PhysicPlanCheck.esapi.dll
+C:\Users\aria\Desktop\CKC\plugins\PhysicPlanCheck.esapi.pdb
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\UserControl1.g.cs
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi_MarkupCompile.cache
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi_MarkupCompile.lref
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\UserControl1.baml
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.g.resources
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.csproj.CoreCompileInputs.cache
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.csproj.CopyComplete
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.dll
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.esapi.pdb
+C:\Users\aria\Desktop\CKC\PhysicPlanCheck\PhysicPlanCheck\obj\x64\Release\PhysicPlanCheck.csproj.AssemblyReference.cache

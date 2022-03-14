@@ -1,0 +1,7 @@
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.dll.config
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.dll
+C:\Users\Chih-Kai Chang\plugins\PhysicPlanCheck.esapi.pdb
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Debug\PhysicPlanCheck.csproj.CoreCompileInputs.cache
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Debug\PhysicPlanCheck.csproj.CopyComplete
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Debug\PhysicPlanCheck.esapi.dll
+C:\Users\Chih-Kai Chang\source\PhysicPlanCheck\obj\x64\Debug\PhysicPlanCheck.esapi.pdb
